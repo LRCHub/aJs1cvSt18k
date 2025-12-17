@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "夜の歯車",
+  "base_artist": "natori",
+  "createdAt": "2025-12-17T14:03:06.442679Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜の歯車",
+      "artist": "なとり",
+      "has_synced": true,
+      "path": "select/01_夜の歯車_なとり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜の歯車",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_01_夜の歯車_なとり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "夜の歯車",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_02_夜の歯車_なとり.txt"
+    }
+  ]
+}
